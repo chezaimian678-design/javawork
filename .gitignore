@@ -1,0 +1,11 @@
+# Local Anaconda/Jupyter project metadata
+anaconda_projects/
+
+# Java build output
+*.class
+out/
+target/
+
+# VS Code local workspace settings
+.vscode/
+
